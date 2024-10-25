@@ -19,9 +19,9 @@ const Copyright2 = ({ style, copyright }) => {
               <p>
                 Copyright © 2024{" "}
                 {style === 3 && !copyright ? (
-                  "BASTUN."
+                  "DevoDevs."
                 ) : (
-                  <a href="/">BASTUN.</a>
+                  <a href="/">DevoDevs.</a>
                 )}{" "}
                 All Right Reserved
               </p>

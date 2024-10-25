@@ -2,8 +2,8 @@ import ErrorMain from "@/components/layout/main/ErrorMain";
 import ThemeController from "@/components/shared/others/ThemeController";
 import PageWrapper from "@/components/shared/wrappers/PageWrapper";
 export const metadata = {
-  title: "Error | Bastun- Business Consulting Next Js Template",
-  description: "Error | Bastun- Business Consulting Next Js Template",
+  title: "Error | DevoDevs- Business Consulting Next Js Template",
+  description: "Error | DevoDevs- Business Consulting Next Js Template",
 };
 export default function ErrorPage() {
   return (

@@ -5,8 +5,8 @@ import PageWrapper from "@/components/shared/wrappers/PageWrapper";
 import getTeamMembers from "@/libs/getTeamMembers";
 import { notFound } from "next/navigation";
 export const metadata = {
-  title: "Team Details | Bastun- Business Consulting Next Js Template",
-  description: "Team Details | Bastun- Business Consulting Next Js Template",
+  title: "Team Details | DevoDevs- Business Consulting Next Js Template",
+  description: "Team Details | DevoDevs- Business Consulting Next Js Template",
 };
 const team = getTeamMembers();
 export default function TeamDetails({ params }) {

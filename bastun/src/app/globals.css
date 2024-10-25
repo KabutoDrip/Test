@@ -1,9 +1,9 @@
 /*********************************************************************************
 
-	 Template: Bastun - Multipurpose Next Js Template
+	 Template: DevoDevs - Multipurpose Next Js Template
     Author: Kamrul Hasan
     Support: hasankamrul3496@gmail.com
-    Description: Bastun - Multipurpose Next Js Template 
+    Description: DevoDevs - Multipurpose Next Js Template 
     Version: 1.0.0
 
 **********************************************************************************/
@@ -1315,34 +1315,34 @@ button.default__button {
   bottom: 0;
 }
 
-.bastun__brand__badge {
+.DevoDevs__brand__badge {
   display: inline-block;
 }
 @media (max-width: 767px) {
-  .bastun__brand__badge__inner {
+  .DevoDevs__brand__badge__inner {
     max-width: 60%;
     margin: auto;
   }
-  .bastun__brand__badge__inner img {
+  .DevoDevs__brand__badge__inner img {
     width: 100%;
   }
-  .bastun__brand__badge__inner img.bbb__icon {
+  .DevoDevs__brand__badge__inner img.bbb__icon {
     width: 30px;
   }
 }
-.bastun__brand__badge__footer {
+.DevoDevs__brand__badge__footer {
   position: absolute;
   top: -35px;
   left: 50%;
   transform: translate(-50%);
 }
-.bastun__brand__badge .bbb__animate {
+.DevoDevs__brand__badge .bbb__animate {
   animation: animationglob 10s cubic-bezier(1, 0.99, 0.03, 0.01) infinite;
 }
-.bastun__brand__badge .bbb__animate:hover {
+.DevoDevs__brand__badge .bbb__animate:hover {
   animation-play-state: paused;
 }
-.bastun__brand__badge .bbb__icon {
+.DevoDevs__brand__badge .bbb__icon {
   position: absolute;
   left: 50%;
   top: 50%;
@@ -3547,7 +3547,7 @@ button.default__button {
   }
 }
 
-.herobanner .bastun__brand__badge {
+.herobanner .DevoDevs__brand__badge {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -3555,29 +3555,29 @@ button.default__button {
   z-index: 99;
 }
 @media (min-width: 992px) and (max-width: 1365px) {
-  .herobanner .bastun__brand__badge {
+  .herobanner .DevoDevs__brand__badge {
     top: auto;
     bottom: 0;
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
-  .herobanner .bastun__brand__badge {
+  .herobanner .DevoDevs__brand__badge {
     top: auto;
     bottom: 0;
   }
 }
 @media (max-width: 767px) {
-  .herobanner .bastun__brand__badge {
+  .herobanner .DevoDevs__brand__badge {
     top: 37%;
   }
 }
 @media (min-width: 320px) and (max-width: 575px) {
-  .herobanner .bastun__brand__badge {
+  .herobanner .DevoDevs__brand__badge {
     top: 60%;
   }
 }
 
-.herobanner.herobanner--3 .bastun__brand__badge {
+.herobanner.herobanner--3 .DevoDevs__brand__badge {
   top: auto;
   bottom: inherit;
 }
@@ -7002,7 +7002,7 @@ button.default__button {
   border-bottom: 1px dotted var(--contentColor);
 }
 
-.bastun__brand__badge.related__project__badge {
+.DevoDevs__brand__badge.related__project__badge {
   position: absolute;
   left: 50%;
   top: 35%;

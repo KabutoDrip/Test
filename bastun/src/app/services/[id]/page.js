@@ -4,9 +4,9 @@ import PageWrapper from "@/components/shared/wrappers/PageWrapper";
 import getAllServices from "@/libs/getAllServices";
 import { notFound } from "next/navigation";
 export const metadata = {
-  title: "Services Details | Bastun- Business Consulting Next Js Template",
+  title: "Services Details | DevoDevs- Business Consulting Next Js Template",
   description:
-    "Services Details | Bastun- Business Consulting Next Js Template",
+    "Services Details | DevoDevs- Business Consulting Next Js Template",
 };
 const services = getAllServices();
 export default function ServicesDetails({ params }) {

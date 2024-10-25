@@ -2,8 +2,8 @@ import WishlistMain from "@/components/layout/main/WishlistMain";
 import ThemeController from "@/components/shared/others/ThemeController";
 import PageWrapper from "@/components/shared/wrappers/PageWrapper";
 export const metadata = {
-  title: "Wishlist | Bastun- Business Consulting Next Js Template",
-  description: "Wishlist | Bastun- Business Consulting Next Js Template",
+  title: "Wishlist | DevoDevs- Business Consulting Next Js Template",
+  description: "Wishlist | DevoDevs- Business Consulting Next Js Template",
 };
 export default function Wishlist() {
   return (

@@ -5,8 +5,8 @@ import PageWrapper from "@/components/shared/wrappers/PageWrapper";
 import getAllBlogs from "@/libs/getAllBlogs";
 import { notFound } from "next/navigation";
 export const metadata = {
-  title: "Blogs Details | Bastun- Business Consulting Next Js Template",
-  description: "Blogs Details | Bastun- Business Consulting Next Js Template",
+  title: "Blogs Details - Devo Devs",
+  description: "Blogs Details - Devo Devs",
 };
 const blogs = getAllBlogs();
 export default function BlogsDetails({ params }) {

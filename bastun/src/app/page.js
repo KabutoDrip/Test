@@ -1,4 +1,4 @@
-import IndexMain from "@/components/layout/main/IndexMain";
+import Home2 from "@/components/layout/main/Home2Main";
 import ThemeController from "@/components/shared/others/ThemeController";
 import PageWrapper from "@/components/shared/wrappers/PageWrapper";
 
@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <PageWrapper>
       <ThemeController />
-      <IndexMain />
+      <Home2 />
     </PageWrapper>
   );
 }

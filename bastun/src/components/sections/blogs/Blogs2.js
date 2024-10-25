@@ -38,8 +38,8 @@ const Blogs2 = () => {
           </div>
           <div className="col-xl-3 col-xl-3 col-lg-3 col-md-6 col-12">
             <div className="blog__2__small__img">
-              <div className="bastun__brand__badge">
-                <div className="bastun__brand__badge__inner position-relative">
+              <div className="DevoDevs__brand__badge">
+                <div className="DevoDevs__brand__badge__inner position-relative">
                   <Link href="/">
                     <Image
                       className="bbb__animate"

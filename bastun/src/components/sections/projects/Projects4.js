@@ -31,8 +31,8 @@ const Projects4 = () => {
             <ProjectCard2 key={idx} project={project} type={2} />
           ))}
 
-          <div className="bastun__brand__badge related__project__badge">
-            <div className="bastun__brand__badge__inner position-relative">
+          <div className="DevoDevs__brand__badge related__project__badge">
+            <div className="DevoDevs__brand__badge__inner position-relative">
               <Link href="/">
                 <Image
                   className="bbb__animate"

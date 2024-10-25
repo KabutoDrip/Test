@@ -14,14 +14,14 @@ const LogoHeader = () => {
             placeholder="blur"
             className={style === 4 ? "logo-image2" : ""}
             src={style === 4 && bodyBg !== "black" ? logoImage2 : logoImage1}
-            alt="Bastun Logo"
+            alt="DevoDevs Logo"
           />
           {style === 4 ? (
             <Image
               placeholder="blur"
               className={"logo-image1"}
               src={style === 4 && bodyBg === "black" ? logoImage2 : logoImage1}
-              alt="Bastun Logo"
+              alt="DevoDevs Logo"
             />
           ) : (
             ""

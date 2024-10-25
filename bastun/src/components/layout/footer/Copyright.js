@@ -7,7 +7,7 @@ const Copyright = () => {
         <div className="col-xl-6 col-lg-6 col-md-6 col-12">
           <div className="copyright__left">
             <p>
-              Copyright © 2024 <Link href="/">BASTUN.</Link> All Right Reserved
+              Copyright © 2024 <Link href="/">DevoDevs.</Link> All Right Reserved
             </p>
           </div>
         </div>

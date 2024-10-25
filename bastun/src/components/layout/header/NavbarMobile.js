@@ -8,7 +8,7 @@ const NavbarMobile = () => {
   const mobileItems = [
     {
       name: isOnepage ? "HOME" : "Home",
-      path: isOnepage ? "#" : "/",
+      path: isOnepage ? "#" : "/home",
       dropdown: false,
     },
     {

@@ -8,7 +8,7 @@ const Navbar = () => {
     {
       name: "HOME",
       icon: false, // No need for icon if dropdown isn't used
-      path: isOnepage ? "#" : "/",
+      path: isOnepage ? "#" : "/home",
       dropdown: null,
     },
     {

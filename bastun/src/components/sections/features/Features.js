@@ -49,8 +49,8 @@ const Features = () => {
           </div>
         </div>
         <div className="working__support__img">
-          <div className="bastun__brand__badge">
-            <div className="bastun__brand__badge__inner position-relative">
+          <div className="DevoDevs__brand__badge">
+            <div className="DevoDevs__brand__badge__inner position-relative">
               <Link href="/">
                 <Image
                   className="bbb__animate"

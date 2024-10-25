@@ -6,11 +6,11 @@ import brandBadgeInnerImage from "@/assets/img/footer/brand__badge__inner.png";
 const BrandBadge = ({ type, badge }) => {
   return (
     <div
-      className={`bastun__brand__badge ${
-        type === "footer" ? "bastun__brand__badge__footer" : ""
+      className={`DevoDevs__brand__badge ${
+        type === "footer" ? "DevoDevs__brand__badge__footer" : ""
       } `}
     >
-      <div className="bastun__brand__badge__inner position-relative">
+      <div className="DevoDevs__brand__badge__inner position-relative">
         <Link href="/">
           <Image
             className="bbb__animate"

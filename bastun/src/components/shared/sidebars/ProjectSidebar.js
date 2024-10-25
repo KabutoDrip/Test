@@ -25,7 +25,7 @@ const ProjectSidebar = () => {
               </li>
               <li>
                 <span>Website:</span>
-                <p>www.bastun.com</p>
+                <p>www.DevoDevs.com</p>
               </li>
               <li>
                 <span>Location:</span>
