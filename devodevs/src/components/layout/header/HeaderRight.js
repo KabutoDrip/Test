@@ -1,5 +1,4 @@
 import Link from "next/link";
-import CartHeader from "./CartHeader";
 import ButtonPrimary from "@/components/shared/buttons/ButtonPrimary";
 import { useHeaderContex } from "@/providers/HeaderContex";
 import SocialHeader from "./SocialHeader";

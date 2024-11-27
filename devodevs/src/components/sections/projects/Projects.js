@@ -1,4 +1,3 @@
-import BrandBadge from "@/components/shared/badges/BrandBadge";
 import Image from "next/image";
 
 import projectSmallImage1 from "@/assets/img/project/project__small__img.png";
@@ -34,7 +33,6 @@ const Projects = () => {
             </div>
             <div className="col-xl-6 col-lg-6 col-md-6 col-sm-4 col-12">
               <div className="project__section__img text__end">
-                <BrandBadge />
               </div>
             </div>
             <div className="row">

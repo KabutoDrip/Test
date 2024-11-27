@@ -1,4 +1,3 @@
-import BrandBadge from "@/components/shared/badges/BrandBadge";
 import Image from "next/image";
 import heroBgImage1 from "@/assets/img/herobaner/herobanner__bg__1.png";
 import heroImage5 from "@/assets/img/herobaner/herobanner__5.jpg";
@@ -39,7 +38,6 @@ const Hero2 = ({ title, img }) => {
         </div>
       </div>
 
-      <BrandBadge badge={"hero"} />
 
       <div className="herobanner__img herobanner__img--2">
         <Image src={img ? img : heroImage5} alt="Marketing" />

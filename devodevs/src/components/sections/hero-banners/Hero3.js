@@ -5,7 +5,6 @@ import heroBgImage2 from "@/assets/img/herobaner/herobanner__seo__2.jpg";
 import heroBgImage31 from "@/assets/img/herobaner/slider_31.jpg";
 import heroBgImage32 from "@/assets/img/herobaner/slider_32.jpg";
 import heroBgImage33 from "@/assets/img/herobaner/slider_33.jpg";
-import BrandBadge from "@/components/shared/badges/BrandBadge";
 import Hero3Slide from "@/components/shared/hero-banner/Hero3Slide";
 import { Navigation } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
@@ -151,7 +150,6 @@ const Hero3 = ({ type }) => {
           </div>
         </Swiper>
       </div>
-      <BrandBadge badge={true} />
     </div>
   );
 };
